@@ -27,11 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/landing.PNG)
+![](./screenshots/landingm.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://simple-landing-page-sand.vercel.app/)
 
 ## My process
 
